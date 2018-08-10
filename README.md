@@ -8,7 +8,7 @@ Esta aplicação visa fornecer um consulta dos preços de algumas moedas FIAT ,c
 
 Recursos 
 
-html,css,javascript,jquery(validation)
+html,css,javascript,jquery plugin(https://jqueryvalidation.org/)
 
 O template utilizado foi da (https://html5up.net/)
 
